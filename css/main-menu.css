@@ -1,5 +1,8 @@
 
 #ram{
+    display: flex;
+    flex-direction: row-reverse;
+    row-gap: 20px;
    justify-content: center;
 padding-top: 50px;
 background-color: white;
