@@ -1,18 +1,22 @@
 
 #ram{
+   justify-content: center;
 padding-top: 50px;
 background-color: white;
 height: auto;
-
 }
 
-.container-sm{
-
-    background-color: white;
-}
 
 .text{
 
     text-align: center;
+    margin-top: 50px;
+}
+
+.tom{
+    display: flex;
+    flex-wrap: wrap;
+
+
 }
 
