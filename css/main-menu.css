@@ -5,7 +5,8 @@
     row-gap: 20px;
    justify-content: center;
 padding-top: 50px;
-background-color: white;
+background-color: #011839;
+}
 height: auto;
 }
 
@@ -14,12 +15,16 @@ height: auto;
 
     text-align: center;
     margin-top: 50px;
+    font-weight: bold;
 }
 
-.tom{
-    display: flex;
-    flex-wrap: wrap;
-
+.JAM{
+    text-align: center;
+    background-color: beige;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 50px;
+    font-weight: bold;
 
 }
 
